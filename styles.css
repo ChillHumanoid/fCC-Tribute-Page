@@ -1,1 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Quicksand&family=Raleway&family=Source+Code+Pro&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #cfe8e8;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Kurale', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Kurale', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+#extra {
+    font-size: 16px;
+}
+
+#image {
+    display: block;
+    width: 50%;
+    height: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #1473a9;
+    border-radius: 10px;
+}
+
+#img-caption {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: #1473a9;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#tribute-link:hover {
+    color: gray;
+}
+
+#footer {
+    background-color: #1473;
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+#foot-text {
+    font-size: 12px;
+}
+
+#foot-link {
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#foot-link:hover {
+    color: white;
+}
 
